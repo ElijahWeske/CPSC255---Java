@@ -1,12 +1,3 @@
-# Week 05 Lab
-
-## Instructions
-Fork this repository into the group given to you by the instructor. Once forked, clone it to work with it in your computer.
-
-This repository has a Gradle project under the folder named `Gradle`. Import this folder into Eclipse as a Gradle project. Write your implementation files in its `src/main/java` folder. JUnit test files are given to you in the `src/test/java` folder. Use these files to validate your implementation.
-
-Commit and push your work as often as possible. When pushed, your project will be automatically deployed to [Web-CAT](https://web-cat.cs.vt.edu) for grading. You can push as many times as you want. The last push before the lab is due represents your final submission.
-
 ## Exercise 1
 ### REQUIRED Class NAME: Variable
 A variable is an an object holding a string identifier and an integer data value.
