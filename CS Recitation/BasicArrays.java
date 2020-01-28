@@ -12,9 +12,7 @@
 public class Solution{
   public int countMatches(int item, int[] array, int start, int end){
     int count = 0;
-    
-    // What is the Big O Notation of this...? How many times am I going through each item?
-    // Is there a faster way?
+  
     for (int i = start; i < end; i++){
       if (array[i] == item) count++;
     }
